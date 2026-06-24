@@ -22,4 +22,4 @@ Praticar conceitos fundamentais relacionados à passagem e tratamento de dados e
 
 ---
 
-👩‍💻 **Yasmim Oliveira**
+👩🏻‍💻 **Yasmim Oliveira**
